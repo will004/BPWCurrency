@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BPW Currency</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="title_activity_about_us">Map</string>
+    <string name="aboutUsDesc">BPW Currency is an application to view and convert your account balance
+        based on world currency today (USD, SGD, JPY).
+        \nIn this application, you can convert your account balance to your preferred currency.</string>
+    <string name="title_activity_about_us_user">Map</string>
+</resources>
