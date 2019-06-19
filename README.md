@@ -1,4 +1,4 @@
-BPWCurrency
+**BPWCurrency**
 
 A project from Mobile Programming class. It takes API to get currencies data.
 
